@@ -1,6 +1,6 @@
 ## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/iampavangandhi/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khushhalreddy/)
+[![Linkedin]<i class="ri-linkedin-box-fill"></i>(https://www.linkedin.com/in/khushhalreddy/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KKhushhalR2405/)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-@iampavangandhi-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
