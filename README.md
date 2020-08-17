@@ -1,4 +1,4 @@
-## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/iampavangandhi/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/iampavangandhi/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  :smiley:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
