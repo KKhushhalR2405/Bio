@@ -4,8 +4,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![alt-text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.unboxinnovations.com%2Ftips-for-python-development%2F&psig=AOvVaw1zUnQS4q8pNoCQy4PaS-Q2&ust=1597775161183000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiX17zuousCFQAAAAAdAAAAABAJ)
 
+
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/giphy-14.gif" width="30px">
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khushhalreddy/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KKhushhalR2405/)
