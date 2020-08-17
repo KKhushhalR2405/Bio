@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/giphy-14.gif" width="30px">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpython-discord%2Fbranding%2Fissues%2F19&psig=AOvVaw1zUnQS4q8pNoCQy4PaS-Q2&ust=1597775161183000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiX17zuousCFQAAAAAdAAAAABAP" width="30px">
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khushhalreddy/)
