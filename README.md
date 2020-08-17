@@ -1,5 +1,7 @@
 ## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/iampavangandhi/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khushhalreddy/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KKhushhalR2405/)
 [![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
@@ -113,3 +115,5 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+[website]: https://codeSTACKr.com
