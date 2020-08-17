@@ -4,9 +4,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" />][website]
 
 
-[<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="30px">][https://github.com/KKhushhalR2405/]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khushhalreddy/)
