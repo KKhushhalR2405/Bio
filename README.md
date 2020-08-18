@@ -54,10 +54,7 @@ I'm a pre-final year student pursuing Bachelors's in Information Technology 🎓
 [<img align="left" alt="https://github.com/KKhushhalR2405/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/github.gif" />][github]
 [<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/insta.gif" />][instagram]
 
-
-<br>
 :exclamation::exclamation:Open to anything under Sun:exclamation::exclamation:
-<br>
 
 
 ### Projects and Dev Stuffs:
