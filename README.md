@@ -1,13 +1,5 @@
 ## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  :smiley:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" />][website]
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>
