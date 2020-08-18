@@ -1,5 +1,8 @@
 ## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  :smiley:
 
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+
+### Languages and Tools:
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
@@ -14,6 +17,10 @@
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+
+
 
 
 
@@ -42,21 +49,21 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 ### Languages and Tools:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="nodejs"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png" alt="github"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/opencv.png" width="45px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 ### Projects and Dev Stuffs:
 
