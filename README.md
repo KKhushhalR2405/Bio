@@ -8,15 +8,15 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" />][website]
-[<img align="left" alt="https://github.com/KKhushhalR2405/" width="22px" src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" />][website]
+<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" />
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" />][website]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="42px" src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" />][website]
 
 
 
