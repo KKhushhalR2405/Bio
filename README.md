@@ -11,7 +11,7 @@ I'm a pre-final year student pursuing Bachelors's in Information Technology 🎓
 ### Talking about Personal Stuffs:
 
 - 🛠 I’m currently working with Pytorch :flashlight:.
-- :wrench: I love to play with neural Networks :computer:.
+- :wrench: I love to play with Neural Networks :computer:.
 - 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
 - 👾 Most of my projects are available on [Github](https://github.com/KKhushhalR2405/).
 - 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
