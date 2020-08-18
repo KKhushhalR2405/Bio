@@ -18,9 +18,8 @@
 [<img align="left" alt="https://www.linkedin.com/in/khushhalreddy/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/linkedin.gif" />][linkedin]
 [<img align="left" alt="https://github.com/KKhushhalR2405/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/github.gif" />][github]
 [<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/insta.gif" />][instagram]
-
-
-
+<br>
+<br>
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
