@@ -8,7 +8,7 @@
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="40px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>
@@ -127,6 +127,10 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/add3.gif" width="1200px"></h2>
+
 
 [linkedin]:https://www.linkedin.com/in/khushhalreddy/
 [github]:https://github.com/KKhushhalR2405/
