@@ -9,15 +9,15 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="100px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" width="100px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>  
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="50px"></h2>  
 
 
 
