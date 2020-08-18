@@ -1,6 +1,6 @@
-## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  :smiley:
+## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+
 
 
 
