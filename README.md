@@ -17,7 +17,7 @@
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="50px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="80px"></h2>
 
 
 
