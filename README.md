@@ -22,12 +22,12 @@ I'm a pre-final year student pursuing Bachelors's in Information Technology 🎓
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently working with Node.js, Express.js, React, <br /> Graphql, Mongodb, Javascript, etc 💻.
-- 🚀 I’m currently learning Full Stack Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
-- 👾 Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 How to reach me: pavangandhi100@gmail.com
+- 🛠 I’m currently working with Pytorch :flashlight:.
+- :wrench: I love to play with neural Networks :computer:.
+- 🚀 I’m currently learning Deployment of Deep Learning models using Flask.
+- 👾 Most of my projects are available on [Github](https://github.com/KKhushhalR2405/).
+- 👨 From using TV Remote as a Mobile to using Mobile as a TV Remote, I grew up (PS: I MISS MY CHILDHOOD :sob::sob::sob:).
+- 📫 How to reach me: reddykhushhal2405@gmail.com
 - 📝 Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
 
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
