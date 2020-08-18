@@ -1,18 +1,19 @@
 ## Hello World 2.0, I'm [Khushhal Reddy!](https://github.com/KKhushhalR2405/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>  :smiley:
 
 
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>
-<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="100px"></h2>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/python%20gif.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/cpp.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/aws.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/opencv.png" width="45px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/flask.png" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/hadoop.jpg" width="80px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/html.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/javascript.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/heroku.png" width="30px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/github.png" width="75px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/keras.png" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/pytorch.gif" width="50px"></h2>&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/tensorflow.gif" width="100px"></h2>&nbsp; &nbsp; &nbsp;
 
 
 
