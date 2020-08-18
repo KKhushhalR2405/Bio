@@ -21,15 +21,11 @@
 
 
 
+[<img align="left" alt="https://www.linkedin.com/in/khushhalreddy/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/linkedin.gif" />][linkedin]
+[<img align="left" alt="https://github.com/KKhushhalR2405/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/github.gif" />][github]
+[<img align="left" alt="https://www.instagram.com/w._.icked_hyp.ster/" width="50px" src="https://github.com/KKhushhalR2405/Bio/blob/master/insta.gif" />][instagram]
 
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/khushhalreddy/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/KKhushhalR2405/)
-[![Website Badge](https://img.shields.io/badge/Portfolio%20Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-@iampavangandhi-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
-[![Instagram Badge](https://img.shields.io/badge/-@iampavangandhi-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
-[![Telegram Badge](https://img.shields.io/badge/-@iampavangandhi-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 
 ### Glad to see you here! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/emoji.gif" width="27px"> &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
@@ -138,4 +134,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delh
 
 </div>
 
-[website]: https://codeSTACKr.com
+[linkedin]:https://www.linkedin.com/in/khushhalreddy/
+[github]:https://github.com/KKhushhalR2405/
+[instagram]:https://www.instagram.com/w._.icked_hyp.ster/
